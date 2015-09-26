@@ -9,7 +9,7 @@
   function routeConfig($stateProvider, $urlRouterProvider) {
     $stateProvider
       .state('home', {
-        url: '/',
+        url: '/dashboad',
         templateUrl: 'app/main/main.html',
         controller: 'MainController',
         controllerAs: 'main'

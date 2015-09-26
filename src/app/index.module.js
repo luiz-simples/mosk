@@ -2,6 +2,13 @@
   'use strict';
 
   angular
-    .module('mosk', ['ngAnimate', 'ngCookies', 'ngTouch', 'ngSanitize', 'restangular', 'ui.router']);
-
+    .module('mosk', [
+      'ngAnimate',
+      'ngCookies',
+      'ngTouch',
+      'ngSanitize',
+      'restangular',
+      'ui.router',
+      'textAngular'
+  ]);
 })();

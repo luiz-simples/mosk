@@ -4,3 +4,10 @@ bower_components/
 .idea/
 .tmp/
 dist/
+moskdb.0 moskdb.ns
+moskdb.*
+local.*
+mongo.*
+journal.*
+journal/
+mongod.*
